@@ -31,3 +31,19 @@ print(data.keys())
 
 print(tuple(data.keys()))
 
+
+new_info={"city": "karachi", "time":5,}
+data.update(new_info)
+print(data)
+
+
+#Sets 
+file={"ahmad","ali","zain","asim"}
+file.add("mian")
+file.add("qasim")
+# print(file)
+file.remove("ali")
+print(file)
+# file.clear()
+# print(file)
+print(file.pop())
