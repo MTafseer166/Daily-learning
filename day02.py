@@ -24,6 +24,10 @@
 # else:
 #     print("Subject not found!")
 
+
+here is code of my some practice of python and i am just trying to revise my concepts
+
+
 nums= {1,2,2,3,4,4,4,5,1}
 print(nums)
 nums.add("10")
